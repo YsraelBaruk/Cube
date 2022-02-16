@@ -54,7 +54,7 @@ body{
     left: 0;
     width: 300%;
     height: 300%;
-    background: #222;
+    background-color: #222;
     transform: rotateX(90deg) translateZ(150px);
 }
 
@@ -65,7 +65,7 @@ body{
     left: 0;
     width: 300%;
     height: 300%;
-    background: #0f0;
+    background-color: #0f0;
     transform: translateZ(-380px);
     filter: blur(20px);
     box-shadow: 0 0 120px rgba(0, 255, 0, 0.2),
